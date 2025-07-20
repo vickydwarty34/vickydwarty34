@@ -59,9 +59,8 @@ Me chamo Victória, tenho 21 anos e sou natural de Minas Gerais. Atualmente, est
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickydwarty34&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
----
-
 <!-- Typing SVG -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
